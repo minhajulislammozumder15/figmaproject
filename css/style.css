@@ -1,0 +1,296 @@
+ /* common css*/
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz@9..40&family=PT+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,700&family=PT+Sans:wght@400;700&display=swap');
+ 
+body{
+ 	font-family:'DM Sans', sans-serif;
+ 	font-size:18px ;
+ 	font-weight: 400 ;
+ 	color: darkgreen;
+ }
+header{
+	background-color: #DCE9E2;
+	padding: 10px 0;
+	
+}
+
+.cnav{}
+.logo{
+	width: 165px;
+}
+.menu ul li a{
+	padding: 0 20px !important;
+	text-decoration: underline;
+	
+}
+.btn_cm{
+	background-color: #00856F;
+	border-radius: 33px;
+	font-family:'DM Sans', sans-serif;
+ 	font-size:18px;
+ 	font-weight: 400;
+ 	text-align: center;
+ 	
+
+}
+.btn_sign{
+	padding: 12px 20px 15px;
+}
+.btn_cm:hover{
+	background-color:  #83f28f;
+
+}
+
+
+/* banner start */
+.banner{
+	background-color: #DCE9E2;
+}
+.b_content{}
+.b_p1{
+	margin: 20px 0 -83px;
+	font-size:18px;
+	line-height: 24px;
+	letter-spacing: 2px;
+}
+.b_h1{
+	font-size:52px;
+	margin: 95px 0 40px !important;
+
+}
+.b_p2{
+	font-size:18px;
+	line-height: 24px;
+	padding: 4px 0 15px;
+}
+.b_btn{
+	line-height: 24px !important;
+	padding: 12px 36px;
+}
+.b_img{}
+.b_img img{}
+/* banner end */
+
+
+
+/* box3 start */
+.sucess{
+	background-color: white;
+	margin-bottom: 100px;
+
+}
+.bce{
+	background-color: yellow;
+}
+.card-group{
+	background-color: yellow;
+}
+
+.card-body{
+	background-color: yellow;
+
+
+}
+.card{
+	background-color: #FFFAF1;
+	
+}
+.bold1{
+	text-align: center;
+	margin: 35px 0 0px;
+    font-size: 48px;
+    font-family:'DM Sans', sans-serif;
+}
+.card-text1{
+	font-size: 16px;
+    font-family:'DM Sans', sans-serif;
+    margin: 1px 110px 27px;
+
+}
+.bold2{
+	text-align: center;
+	margin: 35px 0 0px;
+    font-size: 48px;
+    font-family:'DM Sans', sans-serif;
+}
+.card-text2{
+	font-size: 16px;
+    font-family:'DM Sans', sans-serif;
+    margin: 1px 90px 27px;
+
+}
+.bold3{
+	text-align: center;
+	margin: 35px 0 0px;
+    font-size: 48px;
+    font-family:'DM Sans', sans-serif;
+}
+.card-text3{
+	font-size: 16px;
+    font-family:'DM Sans', sans-serif;
+    margin: 1px 115px 27px;
+
+}
+
+
+/*box3 end */
+
+
+/*service start*/
+.text-center{
+	margin: 30px -60px;
+}
+.c_tittle p{
+	color:black;
+}
+.c_tittle h1{
+	color:black !important;
+	margin: 30 -5px 5px !important; 
+	line-height: 40px;
+}
+/*service end*/
+
+/*item start*/
+.item{
+	padding-top: 60px;
+	padding-bottom: 260px;
+}
+.c_item{
+	margin-top: 60px;
+	padding: 20px 30px 40px;
+	box-shadow: 0px 10px 40px 10px #0000001A;
+	border-radius: 10px;
+
+}
+.c_h2{
+	margin: 40px 0 0px;
+	font-size: 24px;
+    font-family:'DM Sans', sans-serif;
+    font-weight: 700;
+    color: #000000;
+}
+.c_p{
+	margin-top: 30px;
+	font-size: 16px;
+    font-family:'DM Sans', sans-serif;
+    font-weight: 400;
+    color: #000000;
+}
+/*item end */
+
+
+/* details start*/
+.details1{
+	padding-top: 100px;
+	background-color: #FFFAF1;
+	padding-bottom: 100px;
+}
+
+.d_content{
+	padding: 16px 123px 2px;
+}
+.p_d{
+	font-size: 16px;
+    font-family:'DM Sans', sans-serif;
+    color: black;
+
+}
+.h_d{
+	font-size: 40px;
+    font-family:'DM Sans', sans-serif;
+    color: black;
+
+}
+.p_dd{
+	font-size: 14px;
+    font-family:'DM Sans', sans-serif;
+    color: black;
+
+}
+
+.details2{
+	padding-top: 200px;
+	padding-bottom: 200px;
+}
+
+.h_d2{
+	font-size: 40px;
+    font-family:'DM Sans', sans-serif;
+    color: black;
+    margin-top: 36px;
+
+}
+.p_d2{
+	font-size: 16px;
+    font-family:'DM Sans', sans-serif;
+    color: #00856F;
+    margin-top: 20px;
+
+	
+}
+.p_dd2{
+	font-size: 16px;
+    font-family:'DM Sans', sans-serif;
+    color: #00856F;
+    margin-top: 10px;
+
+}
+.bttn{
+	margin-top: 20px;
+}
+/*details end*/
+
+
+.footer_top{
+	background-color: #00856F;
+	padding: 55px 0 55px;
+
+}
+.logo1{
+	
+	width: 200px;
+
+}
+.f_p{
+	color: white;
+	padding-top: 30px;
+	padding-right: 100px;
+}
+.ft_links{
+	font-size: 16px;
+	
+	color: white;
+}
+.h_l{
+	font-size: 25px;
+
+}
+.ft_links ul li a{
+	color: white;
+	text-decoration: none;
+	margin-bottom: 8px;
+	display: block;
+
+}
+.social_h{
+	font-size: 25px;
+	color: white;
+	padding: 0px 0  10px;
+
+}
+
+.c_icon li{
+	padding-top: 20px;
+	margin-right: 30px !important;
+}
+
+.c_icon li:last-child{
+	margin-right:0 !important;
+}
+.c_icon li i{
+	font-size: 29px;
+	color: #fcdb00;
+}
+.c_icon li i:hover{
+	color: white;
